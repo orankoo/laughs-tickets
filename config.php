@@ -9,7 +9,7 @@ use Firebase\JWT\ExpiredException; // Import the ExpiredException class
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'laughs_tickets' );
+define('DB_NAME', 'laughs_and_tickets' );
 define('JWT_SECRET', 'your_very_secure_jwt_secret_here');
 
 // Create database connection
